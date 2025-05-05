@@ -4,6 +4,7 @@ public class Main {
             System.out.println(i);
             Sytem .out. println(10);
             System.out.println(my name);
+            System.out.println(my name is tan);
         }
     }
 }
