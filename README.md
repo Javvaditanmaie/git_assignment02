@@ -1,6 +1,6 @@
 
 Repository with commit history 
-
+![commithistory](https://github.com/user-attachments/assets/14cda596-d49e-4ae3-9d29-dd52e8a585f0)
 ![image](https://github.com/user-attachments/assets/8469df3a-b766-45cb-93c4-584cfc612471)
 ![image](https://github.com/user-attachments/assets/970ff46c-b1e9-4e12-aa7c-44d961d93d29)
 Screenshot of git log output 
@@ -23,4 +23,6 @@ Thrid commit I add the other line System.out.println(my name is tan);
 
 
 This is the feature branch 
+ASSIGNMENT 02
+![image](https://github.com/user-attachments/assets/7a722343-16ae-4ba3-a0ab-81dbddf674a9)
 
